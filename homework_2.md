@@ -4,7 +4,10 @@
 According to wiki, we have this definition:
 > Git (/ɡɪt/[7]) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development,[8] but it can be used to keep track of changes in any set of files.
 
-In my own words, git is a place where you can store your versions of code. It makes it possible for anyone to pick up from any stage of your project. It's just like a tree, whose brances are new ideas come out from exactly the same place!
+In my own words, git is a place where you can store your versions of code. 
+
+It makes it possible for **anyone** to pick up from **any stage** of your project. 
+It's just like a tree, whose brances are **new ideas** come out from exactly the **same** place!
 
 ##  Why do we love git workflow?
 
