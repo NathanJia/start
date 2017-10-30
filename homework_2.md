@@ -7,5 +7,10 @@ According to wiki, we have this definition:
 ##  Why do we love git workflow?
 
 + **Git** offers a lot of flexibility in how users manage changes. It stores the path you have gone through during the whole process of your project. 
-+ You may save your current status with git and pick it up wherever you are. If you It shows your team members where you are on your way to your target and how they may probably help you. Moreover, it offers you the chance to regret!
++ You may save your current status with git and pick it up wherever you are.
+you can save your undone job at workplace and continue with your PC at home!
++ It shows your team members where you are on your way to your target and how they may probably help you.
+You may also gather new ideas from others to fix bugs and make your product better!
++ Moreover, it offers you the chance to regret!
+If you want to regret, just go to git and get your old versions of your project!
 ![](http://p.07358.com/image/20160406/1459929457191620.png)
