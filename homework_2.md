@@ -9,7 +9,11 @@ In my own words, git is a place where you can store your versions of code.
 It makes it possible for **anyone** to pick up from **any stage** of your project. 
 It's just like a tree, whose brances are **new ideas** come out from exactly the **same** place!
 
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509977528&di=2cfd3119f3313a774b9833929f85b467&imgtype=jpg&er=1&src=http%3A%2F%2Fstore.sony.com.tw%2Fresource%2Fproduct_files%2FFDR-AX30%2Fimages%2Fimg_37.jpg)
+
+
 ##  Why do we love git workflow?
+Here we just list only a few reasons for which we love git workflow.
 
 + **Git** offers a lot of flexibility in how users manage changes. 
 
@@ -27,4 +31,4 @@ If you want to regret, just go to git and get your old versions of your project!
 
 ![](http://p.07358.com/image/20160406/1459929457191620.png)
 
-
+## How do we perform a git workflow
