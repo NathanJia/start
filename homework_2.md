@@ -8,4 +8,4 @@ According to wiki, we have this definition:
 
 + **Git** offers a lot of flexibility in how users manage changes. It stores the path you have gone through during the whole process of your project. 
 + You may save your current status with git and pick it up wherever you are. If you It shows your team members where you are on your way to your target and how they may probably help you. Moreover, it offers you the chance to regret!
-![](http://img5.duitang.com/uploads/item/201504/01/20150401072910_VTBeY.jpeg)
+![](http://p.07358.com/image/20160406/1459929457191620.png)
