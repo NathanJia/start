@@ -1,2 +1,3 @@
-# start
-repository for hw2.md
+# Git workflow
+### a brief introduction to git workflow
+> why
