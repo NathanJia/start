@@ -42,3 +42,7 @@ It sounds hard to get started with git workflow, but it will be as convenient as
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509383425217&di=00af562e1522377ee16d7032a9e97426&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F6159252dd42a28341df3232f51b5c9ea15cebfb8.jpg)
 
 * Once the repository is cloned locally, a developer can make changes using the standard Git commit process: edit, stage, and commit.
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509383590737&di=0ecf2b46a8c00e36aa08005222adafd6&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fwh%253D600%252C800%2Fsign%3D2e031019dab44aed591bb6e2832cab39%2Fc2fdfc039245d6887c24a1f7a4c27d1ed21b24ba.jpg)
+
+* Once the local repository has new changes committed. These change will need to be pushed to share with other developers on the project.
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509383647022&di=de92a032d3a5137e0f96faa61c6cf9bb&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fcb8065380cd7912301e7684da6345982b2b78080.jpg)
