@@ -46,3 +46,10 @@ It sounds hard to get started with git workflow, but it will be as convenient as
 
 * Once the local repository has new changes committed. These change will need to be pushed to share with other developers on the project.
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509383647022&di=de92a032d3a5137e0f96faa61c6cf9bb&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fcb8065380cd7912301e7684da6345982b2b78080.jpg)
+
+### editor information and references
+* 贾兴国 516030910084
+* references:
+1.wikipedia;
+2.atlassian;
+3.segmentfault
